@@ -1,0 +1,35 @@
+h1 {
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+div.menu-item {
+	background-color: #999999;
+	border: 1px solid black;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	min-height: 170px;
+}
+
+div.menu-header {
+	text-align: center;
+    font-size: 1.25em;
+}
+
+p.menu-content {
+    margin-top: 35px;
+	padding: 10px 10px 10px 10px;
+}
+
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+
+
+a.dropdown-toggle {
+  color: #ecf0f1;
+}
+
+

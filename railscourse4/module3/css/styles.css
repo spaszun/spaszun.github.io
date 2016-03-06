@@ -3,6 +3,10 @@ h1 {
  margin-bottom: 50px;
 }
 
+#main-menu {
+	margin: 10px 10px 10px 10px;
+}
+
 div.menu-item {
 	background-color: #999999;
 	border: 1px solid black;
